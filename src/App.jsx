@@ -84,7 +84,7 @@ const PageView = props => {
           null
           :
           <div className="printer-div">
-            嘿嘿，{userName ? `${userName}，` : ''}亲爱的美丽的大方的温柔的善良的老婆，请开启你的小惊喜^_^
+            嘿嘿，{userName ? `${userName}，` : ''}亲爱的岚宝宝，请开启你的周年小惊喜^_^
             &nbsp;
             <button onClick={() => {
               console.log('点了这个按钮');
